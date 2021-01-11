@@ -1,0 +1,214 @@
+{
+    "C:/Users/raman/source/repos/OpenOCRCorrect/data/Book1Sanskrit/CorrectorOutput/page-1.html": {
+        "directory": "C:/Users/raman/source/repos/OpenOCRCorrect/data/Book1Sanskrit/CorrectorOutput/page-1.html",
+        "seconds": 43
+    },
+    "C:/Users/raman/source/repos/OpenOCRCorrect/data/Book1Sanskrit/CorrectorOutput/page-2.html": {
+        "directory": "C:/Users/raman/source/repos/OpenOCRCorrect/data/Book1Sanskrit/CorrectorOutput/page-2.html",
+        "seconds": 32
+    },
+    "C:/Users/raman/source/repos/OpenOCRCorrect/data/Book1Sanskrit/CorrectorOutput/page-3.html": {
+        "directory": "C:/Users/raman/source/repos/OpenOCRCorrect/data/Book1Sanskrit/CorrectorOutput/page-3.html",
+        "seconds": 70
+    },
+    "C:/Users/raman/source/repos/OpenOCRCorrect/data/Book1Sanskrit/CorrectorOutput/page-4.html": {
+        "directory": "C:/Users/raman/source/repos/OpenOCRCorrect/data/Book1Sanskrit/CorrectorOutput/page-4.html",
+        "seconds": 32
+    },
+    "C:/Users/raman/source/repos/OpenOCRCorrect/data/Book1Sanskrit/CorrectorOutput/page-5.html": {
+        "directory": "C:/Users/raman/source/repos/OpenOCRCorrect/data/Book1Sanskrit/CorrectorOutput/page-5.html",
+        "seconds": 1
+    },
+    "C:/Users/raman/source/repos/OpenOCRCorrect/data/Book1Sanskrit/VerifierOutput/page-1.html": {
+        "directory": "C:/Users/raman/source/repos/OpenOCRCorrect/data/Book1Sanskrit/VerifierOutput/page-1.html",
+        "seconds": 0
+    },
+    "Corrector::V-": {
+        "directory": "Corrector::V-",
+        "seconds": 0
+    },
+    "Corrector::V-1": {
+        "directory": "Corrector::V-1",
+        "seconds": 0
+    },
+    "Corrector:Untitled:V-": {
+        "directory": "Corrector:Untitled:V-",
+        "seconds": 0
+    },
+    "Corrector:page-001.html:V-1": {
+        "directory": "Corrector:page-001.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-001.txt:V-1": {
+        "directory": "Corrector:page-001.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-001.txt:V-4": {
+        "directory": "Corrector:page-001.txt:V-4",
+        "seconds": 0
+    },
+    "Corrector:page-002.txt:V-1": {
+        "directory": "Corrector:page-002.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-002.txt:V-4": {
+        "directory": "Corrector:page-002.txt:V-4",
+        "seconds": 0
+    },
+    "Corrector:page-003.html:V-1": {
+        "directory": "Corrector:page-003.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-003.txt:V-1": {
+        "directory": "Corrector:page-003.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-004.html:V-1": {
+        "directory": "Corrector:page-004.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-004.txt:V-1": {
+        "directory": "Corrector:page-004.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-005.txt:V-1": {
+        "directory": "Corrector:page-005.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-006.html:V-1": {
+        "directory": "Corrector:page-006.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-006.txt:V-1": {
+        "directory": "Corrector:page-006.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-007.txt:V-1": {
+        "directory": "Corrector:page-007.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-008.html:V-1": {
+        "directory": "Corrector:page-008.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-008.txt:V-1": {
+        "directory": "Corrector:page-008.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-009.txt:V-1": {
+        "directory": "Corrector:page-009.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-010.html:V-1": {
+        "directory": "Corrector:page-010.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-010.txt:V-1": {
+        "directory": "Corrector:page-010.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-1.txt:V-1": {
+        "directory": "Corrector:page-1.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-4.txt:V-1": {
+        "directory": "Corrector:page-4.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:untitled.txt:V-1": {
+        "directory": "Corrector:untitled.txt:V-1",
+        "seconds": 0
+    },
+    "Verifier::V-0": {
+        "directory": "Verifier::V-0",
+        "seconds": 0
+    },
+    "Verifier:page-001.txt:V-0": {
+        "directory": "Verifier:page-001.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-002.txt:V-0": {
+        "directory": "Verifier:page-002.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-002.txt:V-1": {
+        "directory": "Verifier:page-002.txt:V-1",
+        "seconds": 0
+    },
+    "Verifier:page-003.html:V-0": {
+        "directory": "Verifier:page-003.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-003.txt:V-0": {
+        "directory": "Verifier:page-003.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-004.html:V-0": {
+        "directory": "Verifier:page-004.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-004.txt:V-0": {
+        "directory": "Verifier:page-004.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-005.txt:V-0": {
+        "directory": "Verifier:page-005.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-006.txt:V-0": {
+        "directory": "Verifier:page-006.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-007.txt:V-0": {
+        "directory": "Verifier:page-007.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-008.txt:V-0": {
+        "directory": "Verifier:page-008.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-009.html:V-0": {
+        "directory": "Verifier:page-009.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-009.txt:V-0": {
+        "directory": "Verifier:page-009.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-010.txt:V-0": {
+        "directory": "Verifier:page-010.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-1.html:V-0": {
+        "directory": "Verifier:page-1.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-1.txt:V-0": {
+        "directory": "Verifier:page-1.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-2.txt:V-0": {
+        "directory": "Verifier:page-2.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-3.txt:V-0": {
+        "directory": "Verifier:page-3.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-4.txt:V-0": {
+        "directory": "Verifier:page-4.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-6.txt:V-0": {
+        "directory": "Verifier:page-6.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-7.txt:V-0": {
+        "directory": "Verifier:page-7.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:untitled.txt:V-0": {
+        "directory": "Verifier:untitled.txt:V-0",
+        "seconds": 0
+    }
+}
